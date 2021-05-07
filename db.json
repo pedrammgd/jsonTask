@@ -1,0 +1,33 @@
+{
+  "tags": [
+    {
+      "id": "0",
+      "text": "tag1",
+      "color": 4278228616
+    },
+    {
+      "id": "1",
+      "text": "tag2",
+      "color": 4278228616
+    }
+  ],
+  "task": [
+    {
+      "id": "0",
+      "taskText": "task1",
+      "tag": {
+        "id": "7",
+        "text": "tag7",
+        "color": 4278228616
+      },
+      "dateTask": "2020-20-01"
+    }
+  ],
+  "users": [
+    {
+      "id": "0",
+      "username": "admin",
+      "password": "admin"
+    }
+  ]
+}
